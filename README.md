@@ -46,7 +46,7 @@ You need to be able to edit the code for this.
 > How do I change the task? 
 * Open your IDE of choice
 * Edit the `index.js` file.
-* * Find the place where it shows:
+* * Find the lines:
 * * "openURL = ``https://youtube.com;"``
-* * and "cp.spawn('C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', ['-new-tab', openURL]);"
+* * "cp.spawn('C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', ['-new-tab', openURL]);"
 * Either remove these lines entirely and remake it yourself OR change the link.
