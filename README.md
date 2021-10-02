@@ -14,9 +14,9 @@
 ## Setup Process
 * [Clone or Download this Repository](https://github.com/realFearrr/task-scheduler.git)
 * [Download NodeJS](https://nodejs.org)
-* Running the Game
+* Running the Tool
 * * Open a terminal
-* * Naviage to the directory of the game
+* * Naviage to the directory of the download
 * * Execute `npm install`
 * * Afterwards, execute `node .` 
 
